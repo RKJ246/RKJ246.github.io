@@ -1,14 +1,12 @@
 ---
 layout: course
-title: Introduction to Machine Learning
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
-year: 2023
-term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
-schedule:
+title: Mechanics and Waves I
+description: This course for first year undergraudates serves as an introduction course in newtonian mechanics, fluid dynamics, and fundamentals of physics of moving and stationary bodies. My duties for this course included conducting tutorial sessions for over 50 students, facilitating setting up questions papers, checking and commenting upon lab reports, and facilitating lab sessions
+instructor: Prof. OVSN Murthy
+year: 2026
+location: Mysuru (102)
+
+schedule_hidden:
   - week: 1
     date: Sept 5
     topic: Course Introduction
@@ -87,27 +85,22 @@ schedule:
 
 ## Course Overview
 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
-
-- Understand key machine learning paradigms and concepts
-- Implement basic machine learning algorithms
-- Evaluate and compare model performance
-- Apply machine learning techniques to real-world problems
+This introductory course prepares students in application of laws of motion, gravitation, basic principles in fluid dynamics, rotational dynamics and associated lab component.
 
 ## Prerequisites
 
-- Basic knowledge of linear algebra and calculus
-- Programming experience in Python
-- Probability and statistics fundamentals
+- Basic knowledge of grade 12 newtonian mechanics
+- Understanding of basic lab equipments such as screw-gauge, vernier-calliper etc.
 
 ## Textbooks
 
-- Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
-- Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
+- Primary: "Principles of Physics" by John W. Jewett, Raymond A. Serway
 
+<!--
 ## Grading
 
 - Assignments: 40%
 - Midterm Exam: 20%
 - Final Project: 30%
 - Participation: 10%
+-->
