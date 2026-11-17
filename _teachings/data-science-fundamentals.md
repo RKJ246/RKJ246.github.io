@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Experimental Methods in Physics
-description: This second year undergraduate course was taught by covers the foundational aspects of data science, including data collection, cleaning, analysis,
+description: This second year undergraduate course covers the foundational aspects of experiment building, troubleshooting, and hands on exposure to laboratory equipments.
 instructor: Prof. Roby Chacko and Prof. Rema Krishnaswamy.
 year: 2026
 location: Physics Teaching Lab (101,102), Mysuru Floor-1
