@@ -19,7 +19,7 @@
     {
       "name": "Azim Premji University",
       "position": "Academic Associate, Department of Physics",
-      "location": "Sarjapura, Karnataka, India",
+      "location": "Karnataka, India",
       "startDate": "2026-01-05",
       "endDate": "present",
       "summary": "I work as a laboratory assistant and teaching assistant in physics courses working closely with undergraduate students on their reserach projects. I also actively conduct research in effective field theories and probing SMEFT operator effects in diboson channel.",
@@ -108,7 +108,7 @@
       "name": "Introductory course on Quantum Computing",
       "date": "2025-03-28",
       "issuer": "I-HUB quantum technology foundation, IISER Pune",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Machine Learning 101",
@@ -120,7 +120,7 @@
       "name": "Mentorship program on nano technology",
       "date": "2024-03-31",
       "issuer": "Sangene Biotech",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
@@ -136,8 +136,7 @@
   "skills": [
     {
       "name": "Physics",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "Machine learning and statistical inference",
         "MadGraph, Pythia, Delphes, Geant4",
