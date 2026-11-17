@@ -1,14 +1,11 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
+title: Experimental Methods in Physics
+description: This second year undergraduate course was taught by covers the foundational aspects of data science, including data collection, cleaning, analysis,
+instructor: Prof. Roby Chacko and Prof. Rema Krishnaswamy.
+year: 2026
+location: Physics Teaching Lab (101,102), Mysuru Floor-1
+schedule_hidden:
   - week: 1
     date: Feb 5
     topic: Introduction to Data Science
@@ -72,26 +69,26 @@ schedule:
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+This course provides a comprehensive introduction to experimental methods in physics. Students learn the following:
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+- Ideating and building experiments from scratch
+- Trouble shooting the experimental failures
 
+<!--
 ## Prerequisites
 
 - Basic programming knowledge (preferably in Python)
 - Introductory statistics
 - Comfort with basic algebra
-
+-->
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- The course is designed and deployed by the department of physics and hence does not follow a single textbook
 
+<!--
 ## Grading
 
 - Assignments: 50%
 - Project: 40%
 - Participation: 10%
+-->
