@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Azim Premji University, Bangalore.
 
 profile:
   align: right
-  image: my_pic.jpg
+  image: my_pic.jpg.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Physics Lab</p>
