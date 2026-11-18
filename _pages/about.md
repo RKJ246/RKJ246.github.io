@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Academic Associate, Department of Physics, Azim Premji University, Bangalore.
+subtitle: <a href='#'>Affiliations</a>. Azim Premji University, Bangalore.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Physics Lab</p>
     <p>Azim Premji University</p>
-    <p>Bangalore, Karnataka</p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Ramkrishna Joshi. I am a M.Sc. Physics graduate from IIT Hyderabad where I worked within Experimental High Energy Physics Group. I completed my B.Sc. from
-Azim Premji University. My research interest lie in two domains: Beyond-the-Standard-Model Phenomenology and application of Machine Learning and statistical
-inference techniques to large sky surveys. I really enjoy exploring large datasets to find patterns and simulate collider environments on my laptop with just a few clicks.
+My name is Ramkrishna Joshi. I am a M.Sc. Physics graduate and I enjoy multidisciplinary explorations in various streams of science. My core interest lies in physics, particle physics particularly. More professional information about me is available in the CV section. I am committed to make my research more accessible to high school students and undergradutes to promote research based scientific enquiry. Besides research I love solving puzzles, playing table tennis, and playing games. I am passionate about science communication and discussions promoting exchange of ideas and research. Feel free to reach out to me for enquiries through following emails: joram0911@gmail.com (personal) OR ramkrishna.joshi@apu.edu.in (work)
 
 
