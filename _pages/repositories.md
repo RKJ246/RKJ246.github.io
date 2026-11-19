@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: This section contains my active repositories.
 nav: true
 nav_order: 4
