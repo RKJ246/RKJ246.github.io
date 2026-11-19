@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching duties
 description: This section contains description of courses for which I have served as a teaching assistant and laboratory assistant.
 nav: true
 nav_order: 6
