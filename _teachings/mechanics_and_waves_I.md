@@ -2,7 +2,7 @@
 layout: course
 title: Mechanics and Waves I
 description: This course for first year undergraudates serves as an introduction course in newtonian mechanics, fluid dynamics, and fundamentals of physics of moving and stationary bodies. My duties for this course included conducting tutorial sessions for over 50 students, facilitating setting up questions papers, checking and commenting upon lab reports, and facilitating lab sessions
-instructor: Prof. OVSN Murthy
+instructor: Prof. Murthy OVSN
 year: 2026
 location: Mysuru (102)
 
