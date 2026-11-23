@@ -3,7 +3,7 @@
     "name": "Ramkrishna Joshi",
     "label": "Academic Assoociate, Physics Department, Azim Premji University",
     "image": "",
-    "email": "joram0911n@gmail.com|ramkrishna.joshi@apu.edu.in",
+    "email": "joram0911n@gmail.com,ramkrishna.joshi@apu.edu.in",
     "phone": "+91-8788031689",
     "summary": "I am a M.Sc. graduate interested in conducting research across wide spectrum of knowledge",
     "location": {
@@ -28,7 +28,7 @@
   ],
 
     
-  "volunteer": [
+  "workshop": [
     {
       "organization": "Summer School for Women in Physics; Jointly organized by ICTS-TIFR & Azim Premji University",
       "location": "Bangalore, India",
@@ -37,8 +37,30 @@
       "endDate": "2026-06-10",
       "summary": "Facilitated a theoretical and demonstration session on \"Demonstrating chaos with double pendulum and magnetic pendulum systems\". Facilitated laboratorys essions for 53 undergradute students participating from all over India.",
       "highlights": []
+    },
+
+    {
+      "organization": "Summer School on Gravitational Wave Astronomy; ICTS-TIFR",
+      "location": "Bangalore, India",
+      "position": "Participant",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "summary": "Two weeks summer school on effective field theory approaches in GW physics. Presented a poster on 'EFT approaches in diboson production' pertaining to methodological overlap of EFT techniques.",
+      "highlights": []
+    },
+
+    {
+      "organization": "Gravitational Wave Open Data Workshop; ICTS-TIFR",
+      "location": "Bangalore, India",
+      "position": "Participant",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-10",
+      "summary": "Facilitated a theoretical and demonstration session on \"Demonstrating chaos with double pendulum and magnetic pendulum systems\". Facilitated laboratorys essions for 53 undergradute students participating from all over India.",
+      "highlights": []
     }
   ],
+
+  
   "education": [
     {
       "institution": "Indian Institute of Technology Hyderabad",
@@ -59,7 +81,7 @@
       "highlights": ["I completed my B.Sc. Physics degree with a thesis in theoretical particle physics under the guidance of Prof. K. Sridhar. I worked on a review of CP violation in K and B meson systems and the study of strangeness oscillations.", "CP violation"]
     }
   ],
-  "awards and achievements": [
+  "awards": [
     {
       "title": "ResCon 2024, Undergraduate research competition",
       "date": "2024",
