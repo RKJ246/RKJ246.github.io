@@ -24,11 +24,8 @@
       "endDate": "present",
       "summary": "I work as a laboratory assistant and teaching assistant in physics courses working closely with undergraduate students on their reserach projects. I also actively conduct research in effective field theories and probing SMEFT operator effects in diboson channel.",
       "highlights": []
-    }
-  ],
+    },
 
-    
-  "workshop": [
     {
       "organization": "Summer School for Women in Physics; Jointly organized by ICTS-TIFR & Azim Premji University",
       "location": "Bangalore, India",
@@ -94,6 +91,7 @@
       "title": "EXERGY ChemE startup pitch competition finalist",
       "date": "2024",
       "awarder": "IIT Kanpur",
+      "url": "",
       "summary": "National level competition. Presented automated waste segregation design with vision models and chemical properties of waste as a sustainable solution."
     },
     
@@ -101,6 +99,7 @@
       "title": "EXERGY case study challenge competition finalist",
       "date": "2024",
       "awarder": "IIT Kanpur",
+       "url": "",
       "summary": "National level competition. Presented a unique optimized flue gas polishing system for biological capture of industrial CO2 emissions as a sustainable solution for climate change."
     },
     
