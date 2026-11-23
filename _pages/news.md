@@ -4,4 +4,4 @@ title: Featured
 permalink: /news/
 ---
 
-{% include news.liquid %}
+{% include Featured.liquid %}
